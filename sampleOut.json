@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Kyle Cowan",
+            "title": "Five-star flop: Crime Intelligence bosses splurge R22.7 million for luxury hotel amid budget cuts",
+            "description": "The police's Crime Intelligence (CI) division has splurged R22.7 million of its secret funds to purchase a 24-bedroom luxury boutique hotel in Pretoria North – while some officers are holding meetings in fast-food restaurants and using their cars as offices.",
+            "url": "https://www.news24.com/news24/investigations/five-star-flop-crime-intelligence-bosses-splurge-r227-million-for-luxury-hotel-amid-budget-cuts-20250110",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/12583/1bbdc1dd613e47d0bfbb7f2016071926.jpg",
+            "publishedAt": "2025-01-13T04:55:01",
+            "content": "The police's Crime Intelligence (CI) division has splurged R22.7 million of its secret funds to purchase a 24-bedroom luxury boutique hotel in Pretoria North – while some officers are holding meeting… [+58 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": null,
+            "title": "Two-ingredient sandwich world’s worst",
+            "description": "A global list ranking some of the ‘worst’ foods in the world has named a sandwich from New Zealand among some of the most disturbing.",
+            "url": "https://www.news.com.au/travel/travel-ideas/food-drink/bizarre-sandwich-dubbed-one-of-the-worst-things-to-eat-in-the-world/news-story/9e57ae5c77e0ae13044a08b123fee961",
+            "urlToImage": "https://content.api.news/v3/images/bin/1b65fbb48e10cb4d87edb8b1415f7a81",
+            "publishedAt": "2025-01-13T01:26:00Z",
+            "content": "A global list ranking some of the ‘worst’ foods in the world has named a sandwich from New Zealand among some of the most disturbing. \r\nSimilar to the Aussie classic Vegemite, over the ditch a combo … [+1599 chars]"
+        },
+        {
+            "source": {
+                "id": "rte",
+                "name": "RTE"
+            },
+            "author": "Jackie Fox",
+            "title": "'The right thing to do': Dublin man aids LA fire response",
+            "description": "A Dublin man has opened the doors of his restaurants and cafés at Venice Beach to evacuees amid the devastating wildfires in Los Angeles, and is providing food and support to first responders, saying: \"It's the right thing to do.\"",
+            "url": "https://www.rte.ie/news/2025/0112/1490364-la-wildfires-dublin-man/",
+            "urlToImage": "https://img.rasset.ie/0021b093-1600.jpg",
+            "publishedAt": "2025-01-12T15:33:44Z",
+            "content": "A Dublin man has opened the doors of his restaurants and cafés at Venice Beach to evacuees amid the devastating wildfires in Los Angeles, and is providing food and support to first responders, saying… [+2628 chars]"
+        },
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Corrie Pelc",
+            "title": "Could milk, other calcium-rich foods help lower colorectal cancer risk?",
+            "description": "Consuming foods and drinks rich in calcium is linked with a lower risk of colorectal cancer, a large new study has found.",
+            "url": "https://www.medicalnewstoday.com/articles/could-milk-other-calcium-rich-foods-help-lower-colorectal-cancer-risk",
+            "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2025/01/holding-milk-glass-1200-628-facebook.jpg",
+            "publishedAt": "2025-01-10T16:30:00Z",
+            "content": "<ul><li>As of 2022, about 1.9 million people have been diagnosed with colorectal cancer. </li><li>Past studies show that bowel cancer can be prevented through certain lifestyle modifications, such as… [+6471 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": null,
+            "title": "Newsletters",
+            "description": "BuzzFeed has breaking news, vital journalism, quizzes, videos, celeb news, Tasty food videos, recipes, DIY hacks, and all the trending buzz you’ll want to share with your friends. Copyright BuzzFeed, Inc. All rights reserved.",
+            "url": "https://www.buzzfeed.com/newsletters?ref=hplego",
+            "urlToImage": "/static-assets/_next/static/images/og-image-f0b6d5e2b65beebb3ad909c4473c3366.png",
+            "publishedAt": "2025-01-10T13:07:25.7263423Z",
+            "content": "Arcade Highlightsweekly\r\nBe notified on the launch of new games, AI generators, filters, and experiments"
+        },
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Corrie Pelc",
+            "title": "Vegan vs. vegetarian vs. omnivore: Does diet type have a big impact on gut health?",
+            "description": "When comparing vegan, vegetarian, and omnivore diet types, researchers found that food quality and diversity may have the biggest impact on the health and structure of the gut microbiome.",
+            "url": "https://www.medicalnewstoday.com/articles/vegan-vegetarian-omnivore-diet-type-quality-gut-health",
+            "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2025/01/Quality-diet-Stocksy_txpaec2452bH24400_Medium_1188381-Facebook.jpg",
+            "publishedAt": "2025-01-08T16:00:00Z",
+            "content": "<ul><li>It is general knowledge that the gut microbiome plays an important role in a persons overall health. </li><li>What we eat is what helps shape the composition of our gut microbiome. </li><li>R… [+8577 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Siôn Geschwindt",
+            "title": "Mobility giant Bolt adopts self-driving Starship robots for food delivery",
+            "description": "Bolt plans to roll out thousands of the robots across multiple countries, starting in its home city of Tallinn later this year.",
+            "url": "http://thenextweb.com/news/mobility-giant-bolt-adopts-self-driving-starship-robots-for-food-delivery",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2Fbolt-starship-robot-delivery.jpg&signature=c902ce701ce95e20f6fd703a50ad52ca",
+            "publishedAt": "2023-06-22T09:17:15Z",
+            "content": "European ride-hailing firm Bolt will start using self-driving robots to deliver customers food as part of a new partnership with fellow Estonian company Starship Technologies, announced yesterday.  \r… [+2447 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Dipak K Dash",
+            "title": "Government to provide 5 kg free food grains to poor for May & June",
+            "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+            "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T04:23:00Z",
+            "content": null
+        }
+    ]
+}
